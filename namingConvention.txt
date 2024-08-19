@@ -1,0 +1,5 @@
+feat = feature
+fix = bug fixes
+chore = daily tasks, refinements
+test
+docs = documentation
